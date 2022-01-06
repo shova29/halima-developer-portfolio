@@ -1,0 +1,193 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-top: 30px;
+}
+.top-section{
+   display: flex;
+}
+.top-section-side-line{
+    
+    height: 100%;
+}
+.top-section-heading{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, tomato, purple);
+    border-image-slice: 1;
+    line-height: 0.8; 
+    margin-top: 60px;
+    font-size: 40px;
+    font-weight: 600;
+}
+.section-heading-two{
+    color: orangered;
+}
+.about-section-content-heading{
+    font-size: 30px;
+}
+.top-section-left-content-text{
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.anchor-btn {
+    margin-top: 10px;
+    text-decoration:none;
+    background-image: linear-gradient(tomato, purple);
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+    color: white;
+}
+.content-text{
+    margin-top: 40px;
+}
+.section-content-heading{
+    margin-top: 10px; 
+  
+}
+.section-content-text{
+    padding-bottom: 10px;
+}
+.top-section-right-part-img{
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 70px;
+    width: min-content;
+    height: min-content;
+}
+.top-section-left-part{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.mission-section{
+    padding-bottom: 100px;
+}
+.all-mission{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-right: 160px;
+}
+.all-mission-content{
+    display: flex;
+}
+.mission-section-content-first{
+    padding-left: 20px;
+    padding-right: 90px;
+    margin-left: 20px;
+    width: 25%;
+    height: 320px;
+    border-radius: 25px;
+    background-color:rgb(240, 210, 215);
+}
+.mission-section-content-second{
+    background-color: rgb(214, 196, 232);
+}
+.mission-section-content-third{
+    background-color: rgba(168, 214, 168, 0.774);
+}
+.mission-section-img img{
+    padding-top: 20px;
+    height: 60px;
+    width: 60px;
+}
+.mission-section-content{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    text-align: left;
+    font-size: 13px ;
+}
+.about-section{
+    margin-left: 90px;
+    margin-top: 20px;
+    display: flex;
+    margin-right: 100px;
+}
+.about-section-left-part{
+    width: 40%;
+}
+.about-section-right-part {
+    width: 60%;
+}
+.flexible-section-content{
+    padding-right: 100px;
+    color: black;
+    padding-bottom: 10px;
+}
+.about-section-left-part-img img{
+    height: 300px;
+    width: 90%;
+    border-radius: 30px;
+}
+.hire-section{
+    margin-top: 35px;
+    display: flex;
+    margin-left: 90px;
+    margin-right: 120px;
+}
+.hire-section-left{
+    padding-right: 50px;
+    margin-top: 50px;
+    width: 60%;
+}
+.hire-section-right{
+    margin-top: 50px;
+    width: 40%;
+}
+.hire-section-left-content-text{
+    margin-right: 10px;
+    color: black;
+}
+.hire-section-right-img img{
+    height: 300px;
+    width: 90%;
+    border-radius: 30px;
+}
+.bottom-section{
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+    display: flex;
+}
+.bottom-section-heading{ 
+    font-size: 30px;
+}
+.bottom-section-left{
+    width: 50%;
+}
+.bottom-section-div-inner{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.bottom-section-div-inner-img img{
+    height: auto;
+    width: 100%;
+    border-radius: 30px;
+}
+.bottom-content-text{
+    padding-top: 20px;
+    font-size: 14px;
+    text-align: left;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.footer-text{
+    color: white;
+    font-size: 10px;
+}
+#mission{
+    color: white;
+}
+#mission-year{
+    color: crimson;
+}
